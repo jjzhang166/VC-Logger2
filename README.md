@@ -1,4 +1,4 @@
-vcloger
+vclogger
 =======
 
 Efficien C++ Log Component
