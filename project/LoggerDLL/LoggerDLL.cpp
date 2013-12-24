@@ -1,11 +1,11 @@
 /*
  * Copyright Bruce Liang (ldcsaa@gmail.com)
  *
- * Version	: 2.2.1
+ * Version	: 2.0.3
  * Author	: Bruce Liang
  * Website	: http://www.jessma.org
- * Porject	: https://github.com/ldcsaa
- * Bolg		: http://www.cnblogs.com/ldcsaa
+ * Project	: https://github.com/ldcsaa
+ * Blog		: http://www.cnblogs.com/ldcsaa
  * WeiBo	: http://weibo.com/u/1402935851
  * QQ Group	: 75375912
  *
